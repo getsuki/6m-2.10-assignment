@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  body {
+    background-color: rgb(225, 227, 228);
+  }
+  
